@@ -1,4 +1,4 @@
-# Deep-Zooming-of-Images based on SRGAN
+# Deep-Zooming-of-Images using SRGAN
 
 Description:
  The folder contain two Python scripts
@@ -10,12 +10,12 @@ Description:
     Library used : OpenCV
     Python Libs included : numpy
 
- The folder contain one .sh command language interprete
+The folder contain one .sh command language interprete
  1. Zoom.sh : Contains parameters given to Zoom.py
 
 Developed Based On :
  1. Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network-  https://arxiv.org/pdf/1609.04802.pdf
- 2. The code is highly inspired by pix2pix-tensorflow .
+ 2. The code is highly inspired by  : pix2pix-tensorflow .
  3. Pretrained model : https://drive.google.com/uc?id=0BxRIhBA0x8lHNDJFVjJEQnZtcmc&export=download 
 
 Dependency:
