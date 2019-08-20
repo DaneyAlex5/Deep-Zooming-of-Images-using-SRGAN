@@ -24,7 +24,7 @@ Dependency:
  3. OpenCV 4.0.1 or above
 
 How To Run Code:
- 1. Download and extract the  code from given above.
+ 1. Download the zip file Deep-Zooming-of-Images using SRGAN.zip and extract the files in it.
  2. Download the pretrained model from the link given above.
  3. After extracting the folder copy the input image to Input Folder(in jpg format only).
  4. Run the Zoom.sh.
