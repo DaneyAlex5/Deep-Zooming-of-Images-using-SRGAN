@@ -1,4 +1,4 @@
-# Deep-Zooming-of-Images using SRGAN
+# Deep-Zooming-of-Images based on SRGAN
 
 Description:
  The folder contain two Python scripts
